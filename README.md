@@ -1,4 +1,4 @@
-# psych-ia-random-solid-color-png-generator
+# Psych IA Random Solid Color png Generator
 Random Solid Color PNG (128x128) Generator for my Psych IA
 
 # What this does
