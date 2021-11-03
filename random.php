@@ -1,5 +1,6 @@
 <?php
-for ($x = 0; $x < 3; $x++) {
+$n = 3; // number of random colored pngs to make
+for ($x = 0; $x < $n; $x++) {
     $im = @imagecreate(128, 128)
     or die("Cannot Initialize new GD image stream");
     $color = substr(md5(rand()), 0, 6);
